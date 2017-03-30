@@ -1,5 +1,13 @@
 # association
 Сервис ассоциациативных понятий для лучшего запоминания английских слов.
+Установка и запуск проекта
+Копируем репозиторий
+### git clone git@github.com:basilred/association.git
+### cd association
+### npm i
+### enb server
+или 
+### node server
 
 Технологическая база сервиса — [bem-express](https://github.com/bem/bem-express).
 
